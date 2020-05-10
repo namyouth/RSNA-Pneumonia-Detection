@@ -54,3 +54,7 @@ https://github.com/matterport/Mask_RCNN/releases/download/v2.0/mask_rcnn_coco.h5
 ### Visualization
 ![pic](./img/before.png)
 
+### Reference
+- https://www.kaggle.com/zahaviguy/what-are-lung-opacities
+- https://www.kaggle.com/drt2290078/mask-rcnn-sample-starter-code
+- https://www.kaggle.com/hmendonca/mask-rcnn-and-coco-transfer-learning-lb-0-155
